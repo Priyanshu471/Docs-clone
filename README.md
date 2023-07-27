@@ -1,6 +1,7 @@
 # Google Docs Clone
 
 This is a web application that serves as a clone of Google Docs. It is built using React.js and Tailwind CSS, and it includes features such as user authentication (login and logout) using Firebase as the database.
+Live-> https://mydocs-clone.netlify.app
 
 ## Table of Contents
 
